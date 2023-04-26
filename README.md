@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/camposcoder?igshid=YmMyMTA2M2Y=)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camposcoder)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camposcoder&count_private=true)
 
 Tecnologias que eu uso no meu dia
 
